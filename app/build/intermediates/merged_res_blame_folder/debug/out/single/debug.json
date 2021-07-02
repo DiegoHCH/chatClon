@@ -1,0 +1,426 @@
+[
+    {
+        "merged": "/Users/diegohoyos/Desktop/android-chat-starter-master/app/build/intermediates/res/merged/debug/drawable_ic_emoji_car.xml.flat",
+        "source": "/Users/diegohoyos/Desktop/android-chat-starter-master/app/src/main/res/drawable/ic_emoji_car.xml"
+    },
+    {
+        "merged": "/Users/diegohoyos/Desktop/android-chat-starter-master/app/build/intermediates/res/merged/debug/drawable_ic_emoji_smile.xml.flat",
+        "source": "/Users/diegohoyos/Desktop/android-chat-starter-master/app/src/main/res/drawable/ic_emoji_smile.xml"
+    },
+    {
+        "merged": "/Users/diegohoyos/Desktop/android-chat-starter-master/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_smiles_backspace_active.png.flat",
+        "source": "/Users/diegohoyos/Desktop/android-chat-starter-master/app/src/main/res/drawable-mdpi/ic_smiles_backspace_active.png"
+    },
+    {
+        "merged": "/Users/diegohoyos/Desktop/android-chat-starter-master/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_smiles_grid_active.png.flat",
+        "source": "/Users/diegohoyos/Desktop/android-chat-starter-master/app/src/main/res/drawable-xxhdpi/ic_smiles_grid_active.png"
+    },
+    {
+        "merged": "/Users/diegohoyos/Desktop/android-chat-starter-master/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_smiles_smile.png.flat",
+        "source": "/Users/diegohoyos/Desktop/android-chat-starter-master/app/src/main/res/drawable-mdpi/ic_smiles_smile.png"
+    },
+    {
+        "merged": "/Users/diegohoyos/Desktop/android-chat-starter-master/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_smiles_grid.png.flat",
+        "source": "/Users/diegohoyos/Desktop/android-chat-starter-master/app/src/main/res/drawable-xxhdpi/ic_smiles_grid.png"
+    },
+    {
+        "merged": "/Users/diegohoyos/Desktop/android-chat-starter-master/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_smiles_bell_active.png.flat",
+        "source": "/Users/diegohoyos/Desktop/android-chat-starter-master/app/src/main/res/drawable-mdpi/ic_smiles_bell_active.png"
+    },
+    {
+        "merged": "/Users/diegohoyos/Desktop/android-chat-starter-master/app/build/intermediates/res/merged/debug/drawable-mdpi_balloon_outgoing_normal.9.png.flat",
+        "source": "/Users/diegohoyos/Desktop/android-chat-starter-master/app/src/main/res/drawable-mdpi/balloon_outgoing_normal.9.png"
+    },
+    {
+        "merged": "/Users/diegohoyos/Desktop/android-chat-starter-master/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_double_tick.png.flat",
+        "source": "/Users/diegohoyos/Desktop/android-chat-starter-master/app/src/main/res/drawable-xhdpi/ic_double_tick.png"
+    },
+    {
+        "merged": "/Users/diegohoyos/Desktop/android-chat-starter-master/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_chat_send.png.flat",
+        "source": "/Users/diegohoyos/Desktop/android-chat-starter-master/app/src/main/res/drawable-hdpi/ic_chat_send.png"
+    },
+    {
+        "merged": "/Users/diegohoyos/Desktop/android-chat-starter-master/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_smiles_backspace_active.png.flat",
+        "source": "/Users/diegohoyos/Desktop/android-chat-starter-master/app/src/main/res/drawable-hdpi/ic_smiles_backspace_active.png"
+    },
+    {
+        "merged": "/Users/diegohoyos/Desktop/android-chat-starter-master/app/build/intermediates/res/merged/debug/drawable-xhdpi_balloon_incoming_normal.9.png.flat",
+        "source": "/Users/diegohoyos/Desktop/android-chat-starter-master/app/src/main/res/drawable-xhdpi/balloon_incoming_normal.9.png"
+    },
+    {
+        "merged": "/Users/diegohoyos/Desktop/android-chat-starter-master/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_smiles_car.png.flat",
+        "source": "/Users/diegohoyos/Desktop/android-chat-starter-master/app/src/main/res/drawable-xhdpi/ic_smiles_car.png"
+    },
+    {
+        "merged": "/Users/diegohoyos/Desktop/android-chat-starter-master/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_smiles_car.png.flat",
+        "source": "/Users/diegohoyos/Desktop/android-chat-starter-master/app/src/main/res/drawable-mdpi/ic_smiles_car.png"
+    },
+    {
+        "merged": "/Users/diegohoyos/Desktop/android-chat-starter-master/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_smiles_grid.png.flat",
+        "source": "/Users/diegohoyos/Desktop/android-chat-starter-master/app/src/main/res/drawable-hdpi/ic_smiles_grid.png"
+    },
+    {
+        "merged": "/Users/diegohoyos/Desktop/android-chat-starter-master/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_single_tick.png.flat",
+        "source": "/Users/diegohoyos/Desktop/android-chat-starter-master/app/src/main/res/drawable-hdpi/ic_single_tick.png"
+    },
+    {
+        "merged": "/Users/diegohoyos/Desktop/android-chat-starter-master/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_smiles_backspace_active.png.flat",
+        "source": "/Users/diegohoyos/Desktop/android-chat-starter-master/app/src/main/res/drawable-xhdpi/ic_smiles_backspace_active.png"
+    },
+    {
+        "merged": "/Users/diegohoyos/Desktop/android-chat-starter-master/app/build/intermediates/res/merged/debug/drawable_ic_emoji_bell.xml.flat",
+        "source": "/Users/diegohoyos/Desktop/android-chat-starter-master/app/src/main/res/drawable/ic_emoji_bell.xml"
+    },
+    {
+        "merged": "/Users/diegohoyos/Desktop/android-chat-starter-master/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_smiles_recent_active.png.flat",
+        "source": "/Users/diegohoyos/Desktop/android-chat-starter-master/app/src/main/res/drawable-hdpi/ic_smiles_recent_active.png"
+    },
+    {
+        "merged": "/Users/diegohoyos/Desktop/android-chat-starter-master/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_msg_panel_smiles.png.flat",
+        "source": "/Users/diegohoyos/Desktop/android-chat-starter-master/app/src/main/res/drawable-hdpi/ic_msg_panel_smiles.png"
+    },
+    {
+        "merged": "/Users/diegohoyos/Desktop/android-chat-starter-master/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_smiles_car_active.png.flat",
+        "source": "/Users/diegohoyos/Desktop/android-chat-starter-master/app/src/main/res/drawable-xxhdpi/ic_smiles_car_active.png"
+    },
+    {
+        "merged": "/Users/diegohoyos/Desktop/android-chat-starter-master/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_msg_panel_smiles.png.flat",
+        "source": "/Users/diegohoyos/Desktop/android-chat-starter-master/app/src/main/res/drawable-mdpi/ic_msg_panel_smiles.png"
+    },
+    {
+        "merged": "/Users/diegohoyos/Desktop/android-chat-starter-master/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_smiles_bell.png.flat",
+        "source": "/Users/diegohoyos/Desktop/android-chat-starter-master/app/src/main/res/drawable-xxhdpi/ic_smiles_bell.png"
+    },
+    {
+        "merged": "/Users/diegohoyos/Desktop/android-chat-starter-master/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_smiles_smile.png.flat",
+        "source": "/Users/diegohoyos/Desktop/android-chat-starter-master/app/src/main/res/drawable-hdpi/ic_smiles_smile.png"
+    },
+    {
+        "merged": "/Users/diegohoyos/Desktop/android-chat-starter-master/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_smiles_bell.png.flat",
+        "source": "/Users/diegohoyos/Desktop/android-chat-starter-master/app/src/main/res/drawable-xhdpi/ic_smiles_bell.png"
+    },
+    {
+        "merged": "/Users/diegohoyos/Desktop/android-chat-starter-master/app/build/intermediates/res/merged/debug/drawable-hdpi_balloon_outgoing_normal.9.png.flat",
+        "source": "/Users/diegohoyos/Desktop/android-chat-starter-master/app/src/main/res/drawable-hdpi/balloon_outgoing_normal.9.png"
+    },
+    {
+        "merged": "/Users/diegohoyos/Desktop/android-chat-starter-master/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_smiles_recent.png.flat",
+        "source": "/Users/diegohoyos/Desktop/android-chat-starter-master/app/src/main/res/drawable-xhdpi/ic_smiles_recent.png"
+    },
+    {
+        "merged": "/Users/diegohoyos/Desktop/android-chat-starter-master/app/build/intermediates/res/merged/debug/drawable-mdpi_bg_emoji_bs.9.png.flat",
+        "source": "/Users/diegohoyos/Desktop/android-chat-starter-master/app/src/main/res/drawable-mdpi/bg_emoji_bs.9.png"
+    },
+    {
+        "merged": "/Users/diegohoyos/Desktop/android-chat-starter-master/app/build/intermediates/res/merged/debug/drawable_transparent.xml.flat",
+        "source": "/Users/diegohoyos/Desktop/android-chat-starter-master/app/src/main/res/drawable/transparent.xml"
+    },
+    {
+        "merged": "/Users/diegohoyos/Desktop/android-chat-starter-master/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_single_tick.png.flat",
+        "source": "/Users/diegohoyos/Desktop/android-chat-starter-master/app/src/main/res/drawable-xxhdpi/ic_single_tick.png"
+    },
+    {
+        "merged": "/Users/diegohoyos/Desktop/android-chat-starter-master/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_smiles_backspace.png.flat",
+        "source": "/Users/diegohoyos/Desktop/android-chat-starter-master/app/src/main/res/drawable-xhdpi/ic_smiles_backspace.png"
+    },
+    {
+        "merged": "/Users/diegohoyos/Desktop/android-chat-starter-master/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_smiles_recent.png.flat",
+        "source": "/Users/diegohoyos/Desktop/android-chat-starter-master/app/src/main/res/drawable-xxhdpi/ic_smiles_recent.png"
+    },
+    {
+        "merged": "/Users/diegohoyos/Desktop/android-chat-starter-master/app/build/intermediates/res/merged/debug/drawable_ic_emoji_flower.xml.flat",
+        "source": "/Users/diegohoyos/Desktop/android-chat-starter-master/app/src/main/res/drawable/ic_emoji_flower.xml"
+    },
+    {
+        "merged": "/Users/diegohoyos/Desktop/android-chat-starter-master/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_smiles_recent.png.flat",
+        "source": "/Users/diegohoyos/Desktop/android-chat-starter-master/app/src/main/res/drawable-mdpi/ic_smiles_recent.png"
+    },
+    {
+        "merged": "/Users/diegohoyos/Desktop/android-chat-starter-master/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_chat_send_active.png.flat",
+        "source": "/Users/diegohoyos/Desktop/android-chat-starter-master/app/src/main/res/drawable-hdpi/ic_chat_send_active.png"
+    },
+    {
+        "merged": "/Users/diegohoyos/Desktop/android-chat-starter-master/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_smiles_grid.png.flat",
+        "source": "/Users/diegohoyos/Desktop/android-chat-starter-master/app/src/main/res/drawable-mdpi/ic_smiles_grid.png"
+    },
+    {
+        "merged": "/Users/diegohoyos/Desktop/android-chat-starter-master/app/build/intermediates/res/merged/debug/drawable_ic_emoji_backspace.xml.flat",
+        "source": "/Users/diegohoyos/Desktop/android-chat-starter-master/app/src/main/res/drawable/ic_emoji_backspace.xml"
+    },
+    {
+        "merged": "/Users/diegohoyos/Desktop/android-chat-starter-master/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_chat_send.png.flat",
+        "source": "/Users/diegohoyos/Desktop/android-chat-starter-master/app/src/main/res/drawable-xhdpi/ic_chat_send.png"
+    },
+    {
+        "merged": "/Users/diegohoyos/Desktop/android-chat-starter-master/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_chat_send.png.flat",
+        "source": "/Users/diegohoyos/Desktop/android-chat-starter-master/app/src/main/res/drawable-xxhdpi/ic_chat_send.png"
+    },
+    {
+        "merged": "/Users/diegohoyos/Desktop/android-chat-starter-master/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_smiles_car_active.png.flat",
+        "source": "/Users/diegohoyos/Desktop/android-chat-starter-master/app/src/main/res/drawable-mdpi/ic_smiles_car_active.png"
+    },
+    {
+        "merged": "/Users/diegohoyos/Desktop/android-chat-starter-master/app/build/intermediates/res/merged/debug/layout_chat_user1_item.xml.flat",
+        "source": "/Users/diegohoyos/Desktop/android-chat-starter-master/app/src/main/res/layout/chat_user1_item.xml"
+    },
+    {
+        "merged": "/Users/diegohoyos/Desktop/android-chat-starter-master/app/build/intermediates/res/merged/debug/drawable-xxhdpi_balloon_incoming_normal.9.png.flat",
+        "source": "/Users/diegohoyos/Desktop/android-chat-starter-master/app/src/main/res/drawable-xxhdpi/balloon_incoming_normal.9.png"
+    },
+    {
+        "merged": "/Users/diegohoyos/Desktop/android-chat-starter-master/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_smiles_flower.png.flat",
+        "source": "/Users/diegohoyos/Desktop/android-chat-starter-master/app/src/main/res/drawable-hdpi/ic_smiles_flower.png"
+    },
+    {
+        "merged": "/Users/diegohoyos/Desktop/android-chat-starter-master/app/build/intermediates/res/merged/debug/drawable-hdpi_bg_emoji_bs.9.png.flat",
+        "source": "/Users/diegohoyos/Desktop/android-chat-starter-master/app/src/main/res/drawable-hdpi/bg_emoji_bs.9.png"
+    },
+    {
+        "merged": "/Users/diegohoyos/Desktop/android-chat-starter-master/app/build/intermediates/res/merged/debug/drawable-xhdpi_bg_emoji_bs.9.png.flat",
+        "source": "/Users/diegohoyos/Desktop/android-chat-starter-master/app/src/main/res/drawable-xhdpi/bg_emoji_bs.9.png"
+    },
+    {
+        "merged": "/Users/diegohoyos/Desktop/android-chat-starter-master/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_smiles_recent_active.png.flat",
+        "source": "/Users/diegohoyos/Desktop/android-chat-starter-master/app/src/main/res/drawable-mdpi/ic_smiles_recent_active.png"
+    },
+    {
+        "merged": "/Users/diegohoyos/Desktop/android-chat-starter-master/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_smiles_flower_active.png.flat",
+        "source": "/Users/diegohoyos/Desktop/android-chat-starter-master/app/src/main/res/drawable-hdpi/ic_smiles_flower_active.png"
+    },
+    {
+        "merged": "/Users/diegohoyos/Desktop/android-chat-starter-master/app/build/intermediates/res/merged/debug/drawable_background.jpg.flat",
+        "source": "/Users/diegohoyos/Desktop/android-chat-starter-master/app/src/main/res/drawable/background.jpg"
+    },
+    {
+        "merged": "/Users/diegohoyos/Desktop/android-chat-starter-master/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_smiles_smile_active.png.flat",
+        "source": "/Users/diegohoyos/Desktop/android-chat-starter-master/app/src/main/res/drawable-hdpi/ic_smiles_smile_active.png"
+    },
+    {
+        "merged": "/Users/diegohoyos/Desktop/android-chat-starter-master/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_smiles_car_active.png.flat",
+        "source": "/Users/diegohoyos/Desktop/android-chat-starter-master/app/src/main/res/drawable-hdpi/ic_smiles_car_active.png"
+    },
+    {
+        "merged": "/Users/diegohoyos/Desktop/android-chat-starter-master/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_smiles_car.png.flat",
+        "source": "/Users/diegohoyos/Desktop/android-chat-starter-master/app/src/main/res/drawable-xxhdpi/ic_smiles_car.png"
+    },
+    {
+        "merged": "/Users/diegohoyos/Desktop/android-chat-starter-master/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_smiles_backspace.png.flat",
+        "source": "/Users/diegohoyos/Desktop/android-chat-starter-master/app/src/main/res/drawable-xxhdpi/ic_smiles_backspace.png"
+    },
+    {
+        "merged": "/Users/diegohoyos/Desktop/android-chat-starter-master/app/build/intermediates/res/merged/debug/drawable-mdpi_balloon_incoming_normal.9.png.flat",
+        "source": "/Users/diegohoyos/Desktop/android-chat-starter-master/app/src/main/res/drawable-mdpi/balloon_incoming_normal.9.png"
+    },
+    {
+        "merged": "/Users/diegohoyos/Desktop/android-chat-starter-master/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_smiles_grid.png.flat",
+        "source": "/Users/diegohoyos/Desktop/android-chat-starter-master/app/src/main/res/drawable-xhdpi/ic_smiles_grid.png"
+    },
+    {
+        "merged": "/Users/diegohoyos/Desktop/android-chat-starter-master/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_smiles_recent_active.png.flat",
+        "source": "/Users/diegohoyos/Desktop/android-chat-starter-master/app/src/main/res/drawable-xhdpi/ic_smiles_recent_active.png"
+    },
+    {
+        "merged": "/Users/diegohoyos/Desktop/android-chat-starter-master/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_smiles_car_active.png.flat",
+        "source": "/Users/diegohoyos/Desktop/android-chat-starter-master/app/src/main/res/drawable-xhdpi/ic_smiles_car_active.png"
+    },
+    {
+        "merged": "/Users/diegohoyos/Desktop/android-chat-starter-master/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_smiles_flower.png.flat",
+        "source": "/Users/diegohoyos/Desktop/android-chat-starter-master/app/src/main/res/drawable-xhdpi/ic_smiles_flower.png"
+    },
+    {
+        "merged": "/Users/diegohoyos/Desktop/android-chat-starter-master/app/build/intermediates/res/merged/debug/drawable_background2.jpg.flat",
+        "source": "/Users/diegohoyos/Desktop/android-chat-starter-master/app/src/main/res/drawable/background2.jpg"
+    },
+    {
+        "merged": "/Users/diegohoyos/Desktop/android-chat-starter-master/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/diegohoyos/Desktop/android-chat-starter-master/app/src/main/res/drawable-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/diegohoyos/Desktop/android-chat-starter-master/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_chat_send_active.png.flat",
+        "source": "/Users/diegohoyos/Desktop/android-chat-starter-master/app/src/main/res/drawable-xhdpi/ic_chat_send_active.png"
+    },
+    {
+        "merged": "/Users/diegohoyos/Desktop/android-chat-starter-master/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_double_tick.png.flat",
+        "source": "/Users/diegohoyos/Desktop/android-chat-starter-master/app/src/main/res/drawable-mdpi/ic_double_tick.png"
+    },
+    {
+        "merged": "/Users/diegohoyos/Desktop/android-chat-starter-master/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_smiles_bell_active.png.flat",
+        "source": "/Users/diegohoyos/Desktop/android-chat-starter-master/app/src/main/res/drawable-xxhdpi/ic_smiles_bell_active.png"
+    },
+    {
+        "merged": "/Users/diegohoyos/Desktop/android-chat-starter-master/app/build/intermediates/res/merged/debug/drawable_chat_divider.xml.flat",
+        "source": "/Users/diegohoyos/Desktop/android-chat-starter-master/app/src/main/res/drawable/chat_divider.xml"
+    },
+    {
+        "merged": "/Users/diegohoyos/Desktop/android-chat-starter-master/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_double_tick.png.flat",
+        "source": "/Users/diegohoyos/Desktop/android-chat-starter-master/app/src/main/res/drawable-xxhdpi/ic_double_tick.png"
+    },
+    {
+        "merged": "/Users/diegohoyos/Desktop/android-chat-starter-master/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_smiles_grid_active.png.flat",
+        "source": "/Users/diegohoyos/Desktop/android-chat-starter-master/app/src/main/res/drawable-xhdpi/ic_smiles_grid_active.png"
+    },
+    {
+        "merged": "/Users/diegohoyos/Desktop/android-chat-starter-master/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_smiles_car.png.flat",
+        "source": "/Users/diegohoyos/Desktop/android-chat-starter-master/app/src/main/res/drawable-hdpi/ic_smiles_car.png"
+    },
+    {
+        "merged": "/Users/diegohoyos/Desktop/android-chat-starter-master/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_smiles_smile.png.flat",
+        "source": "/Users/diegohoyos/Desktop/android-chat-starter-master/app/src/main/res/drawable-xxhdpi/ic_smiles_smile.png"
+    },
+    {
+        "merged": "/Users/diegohoyos/Desktop/android-chat-starter-master/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_smiles_flower.png.flat",
+        "source": "/Users/diegohoyos/Desktop/android-chat-starter-master/app/src/main/res/drawable-mdpi/ic_smiles_flower.png"
+    },
+    {
+        "merged": "/Users/diegohoyos/Desktop/android-chat-starter-master/app/build/intermediates/res/merged/debug/drawable_ic_emoji_recent.xml.flat",
+        "source": "/Users/diegohoyos/Desktop/android-chat-starter-master/app/src/main/res/drawable/ic_emoji_recent.xml"
+    },
+    {
+        "merged": "/Users/diegohoyos/Desktop/android-chat-starter-master/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_chat_send_active.png.flat",
+        "source": "/Users/diegohoyos/Desktop/android-chat-starter-master/app/src/main/res/drawable-mdpi/ic_chat_send_active.png"
+    },
+    {
+        "merged": "/Users/diegohoyos/Desktop/android-chat-starter-master/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_double_tick.png.flat",
+        "source": "/Users/diegohoyos/Desktop/android-chat-starter-master/app/src/main/res/drawable-hdpi/ic_double_tick.png"
+    },
+    {
+        "merged": "/Users/diegohoyos/Desktop/android-chat-starter-master/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_smiles_smile_active.png.flat",
+        "source": "/Users/diegohoyos/Desktop/android-chat-starter-master/app/src/main/res/drawable-xhdpi/ic_smiles_smile_active.png"
+    },
+    {
+        "merged": "/Users/diegohoyos/Desktop/android-chat-starter-master/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_smiles_smile_active.png.flat",
+        "source": "/Users/diegohoyos/Desktop/android-chat-starter-master/app/src/main/res/drawable-mdpi/ic_smiles_smile_active.png"
+    },
+    {
+        "merged": "/Users/diegohoyos/Desktop/android-chat-starter-master/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_smiles_flower_active.png.flat",
+        "source": "/Users/diegohoyos/Desktop/android-chat-starter-master/app/src/main/res/drawable-mdpi/ic_smiles_flower_active.png"
+    },
+    {
+        "merged": "/Users/diegohoyos/Desktop/android-chat-starter-master/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/diegohoyos/Desktop/android-chat-starter-master/app/src/main/res/drawable-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/diegohoyos/Desktop/android-chat-starter-master/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_smiles_recent.png.flat",
+        "source": "/Users/diegohoyos/Desktop/android-chat-starter-master/app/src/main/res/drawable-hdpi/ic_smiles_recent.png"
+    },
+    {
+        "merged": "/Users/diegohoyos/Desktop/android-chat-starter-master/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_smiles_flower_active.png.flat",
+        "source": "/Users/diegohoyos/Desktop/android-chat-starter-master/app/src/main/res/drawable-xxhdpi/ic_smiles_flower_active.png"
+    },
+    {
+        "merged": "/Users/diegohoyos/Desktop/android-chat-starter-master/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_smiles_flower.png.flat",
+        "source": "/Users/diegohoyos/Desktop/android-chat-starter-master/app/src/main/res/drawable-xxhdpi/ic_smiles_flower.png"
+    },
+    {
+        "merged": "/Users/diegohoyos/Desktop/android-chat-starter-master/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_msg_panel_smiles.png.flat",
+        "source": "/Users/diegohoyos/Desktop/android-chat-starter-master/app/src/main/res/drawable-xhdpi/ic_msg_panel_smiles.png"
+    },
+    {
+        "merged": "/Users/diegohoyos/Desktop/android-chat-starter-master/app/build/intermediates/res/merged/debug/layout_chat_user2_item.xml.flat",
+        "source": "/Users/diegohoyos/Desktop/android-chat-starter-master/app/src/main/res/layout/chat_user2_item.xml"
+    },
+    {
+        "merged": "/Users/diegohoyos/Desktop/android-chat-starter-master/app/build/intermediates/res/merged/debug/drawable_list_selector.xml.flat",
+        "source": "/Users/diegohoyos/Desktop/android-chat-starter-master/app/src/main/res/drawable/list_selector.xml"
+    },
+    {
+        "merged": "/Users/diegohoyos/Desktop/android-chat-starter-master/app/build/intermediates/res/merged/debug/layout_activity_main.xml.flat",
+        "source": "/Users/diegohoyos/Desktop/android-chat-starter-master/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/diegohoyos/Desktop/android-chat-starter-master/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_chat_send.png.flat",
+        "source": "/Users/diegohoyos/Desktop/android-chat-starter-master/app/src/main/res/drawable-mdpi/ic_chat_send.png"
+    },
+    {
+        "merged": "/Users/diegohoyos/Desktop/android-chat-starter-master/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_smiles_backspace_active.png.flat",
+        "source": "/Users/diegohoyos/Desktop/android-chat-starter-master/app/src/main/res/drawable-xxhdpi/ic_smiles_backspace_active.png"
+    },
+    {
+        "merged": "/Users/diegohoyos/Desktop/android-chat-starter-master/app/build/intermediates/res/merged/debug/drawable_background_tab.xml.flat",
+        "source": "/Users/diegohoyos/Desktop/android-chat-starter-master/app/src/main/res/drawable/background_tab.xml"
+    },
+    {
+        "merged": "/Users/diegohoyos/Desktop/android-chat-starter-master/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_smiles_flower_active.png.flat",
+        "source": "/Users/diegohoyos/Desktop/android-chat-starter-master/app/src/main/res/drawable-xhdpi/ic_smiles_flower_active.png"
+    },
+    {
+        "merged": "/Users/diegohoyos/Desktop/android-chat-starter-master/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_chat_send_active.png.flat",
+        "source": "/Users/diegohoyos/Desktop/android-chat-starter-master/app/src/main/res/drawable-xxhdpi/ic_chat_send_active.png"
+    },
+    {
+        "merged": "/Users/diegohoyos/Desktop/android-chat-starter-master/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_launcher.png.flat",
+        "source": "/Users/diegohoyos/Desktop/android-chat-starter-master/app/src/main/res/drawable-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/diegohoyos/Desktop/android-chat-starter-master/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_single_tick.png.flat",
+        "source": "/Users/diegohoyos/Desktop/android-chat-starter-master/app/src/main/res/drawable-mdpi/ic_single_tick.png"
+    },
+    {
+        "merged": "/Users/diegohoyos/Desktop/android-chat-starter-master/app/build/intermediates/res/merged/debug/drawable-xxhdpi_balloon_outgoing_normal.9.png.flat",
+        "source": "/Users/diegohoyos/Desktop/android-chat-starter-master/app/src/main/res/drawable-xxhdpi/balloon_outgoing_normal.9.png"
+    },
+    {
+        "merged": "/Users/diegohoyos/Desktop/android-chat-starter-master/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_single_tick.png.flat",
+        "source": "/Users/diegohoyos/Desktop/android-chat-starter-master/app/src/main/res/drawable-xhdpi/ic_single_tick.png"
+    },
+    {
+        "merged": "/Users/diegohoyos/Desktop/android-chat-starter-master/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_smiles_bell_active.png.flat",
+        "source": "/Users/diegohoyos/Desktop/android-chat-starter-master/app/src/main/res/drawable-hdpi/ic_smiles_bell_active.png"
+    },
+    {
+        "merged": "/Users/diegohoyos/Desktop/android-chat-starter-master/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_smiles_bell.png.flat",
+        "source": "/Users/diegohoyos/Desktop/android-chat-starter-master/app/src/main/res/drawable-mdpi/ic_smiles_bell.png"
+    },
+    {
+        "merged": "/Users/diegohoyos/Desktop/android-chat-starter-master/app/build/intermediates/res/merged/debug/drawable_ic_emoji_symbol.xml.flat",
+        "source": "/Users/diegohoyos/Desktop/android-chat-starter-master/app/src/main/res/drawable/ic_emoji_symbol.xml"
+    },
+    {
+        "merged": "/Users/diegohoyos/Desktop/android-chat-starter-master/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_smiles_grid_active.png.flat",
+        "source": "/Users/diegohoyos/Desktop/android-chat-starter-master/app/src/main/res/drawable-hdpi/ic_smiles_grid_active.png"
+    },
+    {
+        "merged": "/Users/diegohoyos/Desktop/android-chat-starter-master/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_smiles_bell.png.flat",
+        "source": "/Users/diegohoyos/Desktop/android-chat-starter-master/app/src/main/res/drawable-hdpi/ic_smiles_bell.png"
+    },
+    {
+        "merged": "/Users/diegohoyos/Desktop/android-chat-starter-master/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_msg_panel_smiles.png.flat",
+        "source": "/Users/diegohoyos/Desktop/android-chat-starter-master/app/src/main/res/drawable-xxhdpi/ic_msg_panel_smiles.png"
+    },
+    {
+        "merged": "/Users/diegohoyos/Desktop/android-chat-starter-master/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_launcher.png.flat",
+        "source": "/Users/diegohoyos/Desktop/android-chat-starter-master/app/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/diegohoyos/Desktop/android-chat-starter-master/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_smiles_smile.png.flat",
+        "source": "/Users/diegohoyos/Desktop/android-chat-starter-master/app/src/main/res/drawable-xhdpi/ic_smiles_smile.png"
+    },
+    {
+        "merged": "/Users/diegohoyos/Desktop/android-chat-starter-master/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_smiles_grid_active.png.flat",
+        "source": "/Users/diegohoyos/Desktop/android-chat-starter-master/app/src/main/res/drawable-mdpi/ic_smiles_grid_active.png"
+    },
+    {
+        "merged": "/Users/diegohoyos/Desktop/android-chat-starter-master/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_smiles_bell_active.png.flat",
+        "source": "/Users/diegohoyos/Desktop/android-chat-starter-master/app/src/main/res/drawable-xhdpi/ic_smiles_bell_active.png"
+    },
+    {
+        "merged": "/Users/diegohoyos/Desktop/android-chat-starter-master/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_smiles_smile_active.png.flat",
+        "source": "/Users/diegohoyos/Desktop/android-chat-starter-master/app/src/main/res/drawable-xxhdpi/ic_smiles_smile_active.png"
+    },
+    {
+        "merged": "/Users/diegohoyos/Desktop/android-chat-starter-master/app/build/intermediates/res/merged/debug/drawable-xhdpi_balloon_outgoing_normal.9.png.flat",
+        "source": "/Users/diegohoyos/Desktop/android-chat-starter-master/app/src/main/res/drawable-xhdpi/balloon_outgoing_normal.9.png"
+    },
+    {
+        "merged": "/Users/diegohoyos/Desktop/android-chat-starter-master/app/build/intermediates/res/merged/debug/drawable-hdpi_balloon_incoming_normal.9.png.flat",
+        "source": "/Users/diegohoyos/Desktop/android-chat-starter-master/app/src/main/res/drawable-hdpi/balloon_incoming_normal.9.png"
+    },
+    {
+        "merged": "/Users/diegohoyos/Desktop/android-chat-starter-master/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_smiles_recent_active.png.flat",
+        "source": "/Users/diegohoyos/Desktop/android-chat-starter-master/app/src/main/res/drawable-xxhdpi/ic_smiles_recent_active.png"
+    },
+    {
+        "merged": "/Users/diegohoyos/Desktop/android-chat-starter-master/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_smiles_backspace.png.flat",
+        "source": "/Users/diegohoyos/Desktop/android-chat-starter-master/app/src/main/res/drawable-mdpi/ic_smiles_backspace.png"
+    }
+]

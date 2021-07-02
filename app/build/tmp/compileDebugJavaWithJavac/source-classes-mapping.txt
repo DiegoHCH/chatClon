@@ -1,0 +1,2 @@
+in/co/madhur/chatbubblesdemo/BuildConfig.java
+ in.co.madhur.chatbubblesdemo.BuildConfig

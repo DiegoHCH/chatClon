@@ -1,0 +1,59 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    xmlns:dist="http://schemas.android.com/apk/distribution"
+4    package="in.co.madhur.chatbubblesdemo"
+5    android:versionCode="1"
+6    android:versionName="1.0" >
+7
+8    <uses-sdk
+9        android:minSdkVersion="14"
+9-->/Users/diegohoyos/Desktop/android-chat-starter-master/app/src/main/AndroidManifest.xml
+10        android:targetSdkVersion="30" />
+10-->/Users/diegohoyos/Desktop/android-chat-starter-master/app/src/main/AndroidManifest.xml
+11
+12    <dist:module dist:instant="true" />
+12-->/Users/diegohoyos/Desktop/android-chat-starter-master/app/src/main/AndroidManifest.xml:7:5-40
+12-->/Users/diegohoyos/Desktop/android-chat-starter-master/app/src/main/AndroidManifest.xml:7:18-37
+13
+14    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+14-->/Users/diegohoyos/Desktop/android-chat-starter-master/app/src/main/AndroidManifest.xml:8:5-78
+14-->/Users/diegohoyos/Desktop/android-chat-starter-master/app/src/main/AndroidManifest.xml:8:22-75
+15
+16    <application
+16-->/Users/diegohoyos/Desktop/android-chat-starter-master/app/src/main/AndroidManifest.xml:10:5-25:19
+17        android:name="in.co.madhur.chatbubblesdemo.App"
+17-->/Users/diegohoyos/Desktop/android-chat-starter-master/app/src/main/AndroidManifest.xml:10:18-37
+18        android:allowBackup="true"
+18-->/Users/diegohoyos/Desktop/android-chat-starter-master/app/src/main/AndroidManifest.xml:11:9-35
+19        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+19-->[androidx.core:core:1.7.0-alpha01] /Users/diegohoyos/.gradle/caches/transforms-2/files-2.1/d6692a30eadd61d09469c13d450d4c17/core-1.7.0-alpha01/AndroidManifest.xml:24:18-86
+20        android:debuggable="true"
+21        android:icon="@drawable/ic_launcher"
+21-->/Users/diegohoyos/Desktop/android-chat-starter-master/app/src/main/AndroidManifest.xml:12:9-45
+22        android:label="@string/app_name"
+22-->/Users/diegohoyos/Desktop/android-chat-starter-master/app/src/main/AndroidManifest.xml:13:9-41
+23        android:testOnly="true"
+24        android:theme="@style/AppTheme" >
+24-->/Users/diegohoyos/Desktop/android-chat-starter-master/app/src/main/AndroidManifest.xml:14:9-40
+25        <activity
+25-->/Users/diegohoyos/Desktop/android-chat-starter-master/app/src/main/AndroidManifest.xml:15:9-24:20
+26            android:name="in.co.madhur.chatbubblesdemo.MainActivity"
+26-->/Users/diegohoyos/Desktop/android-chat-starter-master/app/src/main/AndroidManifest.xml:18:13-41
+27            android:label="@string/app_name"
+27-->/Users/diegohoyos/Desktop/android-chat-starter-master/app/src/main/AndroidManifest.xml:16:13-45
+28            android:windowSoftInputMode="adjustResize" >
+28-->/Users/diegohoyos/Desktop/android-chat-starter-master/app/src/main/AndroidManifest.xml:17:13-55
+29            <intent-filter>
+29-->/Users/diegohoyos/Desktop/android-chat-starter-master/app/src/main/AndroidManifest.xml:19:13-23:29
+30                <action android:name="android.intent.action.MAIN" />
+30-->/Users/diegohoyos/Desktop/android-chat-starter-master/app/src/main/AndroidManifest.xml:20:17-69
+30-->/Users/diegohoyos/Desktop/android-chat-starter-master/app/src/main/AndroidManifest.xml:20:25-66
+31
+32                <category android:name="android.intent.category.LAUNCHER" />
+32-->/Users/diegohoyos/Desktop/android-chat-starter-master/app/src/main/AndroidManifest.xml:22:17-77
+32-->/Users/diegohoyos/Desktop/android-chat-starter-master/app/src/main/AndroidManifest.xml:22:27-74
+33            </intent-filter>
+34        </activity>
+35    </application>
+36
+37</manifest>
